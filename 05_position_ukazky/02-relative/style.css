@@ -1,6 +1,8 @@
 
 .relative {
     /* zde dopis relativni pozicovani prostredniho obdelniku */
+    position: relative;
+    bottom: 50px;
     
 }
 

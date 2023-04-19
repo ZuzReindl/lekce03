@@ -1,16 +1,20 @@
 .hlavicka {
 	/* napozicuj hlavičku fixně k hornímu okraji stránky */
-
+position: fixed;
+left: 100px;
 }
 
 
 .paticka {
 	/* napozicuj patičku fixně k dolnímu okraji stránky */
-
+position: fixed;
+bottom: 0;
+left: 0;
 }
 
 
 .poznamka {
 	/* napozicuj poznámku k pravému okraji okraji stránky */
+position: fixed;
 
 }
